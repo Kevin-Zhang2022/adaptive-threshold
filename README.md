@@ -14,3 +14,10 @@ https://zenodo.org/records/7551261
 
 MIMII Pump
 https://www.kaggle.com/datasets/senaca/mimii-pump-sound-dataset
+
+
+
+1. Fiure 2.(b) correpons to document1
+
+2. diagram 3 correspons t fileb run some  fucntion.
+ 
