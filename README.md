@@ -57,7 +57,7 @@ npy
     good
     heavy_load-->
     
-**This is an exaple jpg file, x is time frame, y is frequency channel. yellows points are spike signals, if there are many spike signals over some tiem steps, that means it is the sound is quite strong during that period.**
+**This is an exaple jpg file, x is time frame, y is frequency channel. yellows points are spike signals, if there are many spike signals over some tiem steps, that means the sound is strong during that period.**
 ![atmo_high_0](https://github.com/user-attachments/assets/e00e92e4-b4a0-4a96-b053-bd4ffbaaa7d8)
 
 
