@@ -17,25 +17,26 @@ https://www.kaggle.com/datasets/senaca/mimii-pump-sound-dataset
 
 
 1. Now let's do this step by step firt u need to downlowad the four datsets and put theme to data foler then the structure will like this 
-<img width="145" height="175" alt="image" src="https://github.com/user-attachments/assets/b8086b72-46d7-4626-85db-d3ec95ee05d7" />
+<img width="143" height="172" alt="image" src="https://github.com/user-attachments/assets/91927de8-b99b-4efc-8d92-c280e5fb3b4f" />
 
+<
 adaptive-threshold
-...
+    ...
     processing
     data
         engine 
         pump
         esc10
         us8k
-
+>
 2. after this, put the downloaded files for each category into audio folder, here is a exmapel of engine folder. 
 engine
 <img width="178" height="129" alt="image" src="https://github.com/user-attachments/assets/e1c938f6-75fd-4ac3-bf0a-281bd9cb0098" />
 
--audio
+audio
     broken
         atmo_high_0.wav
-        ......
+        ...
     good
     heavy_load
 
