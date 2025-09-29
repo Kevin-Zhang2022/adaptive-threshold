@@ -1,4 +1,4 @@
-This is an adaptive threshold applciation for better classsification accuracy and industrial diagnosis
+This is an adaptive threshold application for better classsification accuracy and industrial diagnosis
 
 Datasets used in this code is too large to be uploaded. Here are links for the four public datasets
 
