@@ -29,7 +29,7 @@ adaptive-threshold
         esc10
         us8k -->
 # 2. After this, put the downloaded files for each category into audio folder, here is a exmapel of engine folder.
-engine
+
 <img width="178" height="129" alt="image" src="https://github.com/user-attachments/assets/e1c938f6-75fd-4ac3-bf0a-281bd9cb0098" />
 <!--
 audio
