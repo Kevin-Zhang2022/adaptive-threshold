@@ -16,8 +16,7 @@ MIMII Pump
 https://www.kaggle.com/datasets/senaca/mimii-pump-sound-dataset
 
 
+Now let's do this step by step firt u need to downlowad the four datsets and put theme to /data foler then the structure will like this 
 
-1. Fiure 2.(b) correpons to document1
-
-2. diagram 3 correspons t fileb run some  fucntion.
+-data
  
