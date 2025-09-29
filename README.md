@@ -16,7 +16,43 @@ MIMII Pump
 https://www.kaggle.com/datasets/senaca/mimii-pump-sound-dataset
 
 
-Now let's do this step by step firt u need to downlowad the four datsets and put theme to /data foler then the structure will like this 
+1. Now let's do this step by step firt u need to downlowad the four datsets and put theme to data foler then the structure will like this 
 
--data
+adaptive-threshold
+...
+    processing
+    data
+        engine 
+        pump
+        esc10
+        us8k
+
+2. after this, put the downloaded files for each category into audio folder, here is a exmapel of engine folder. 
+engine
+-audio
+    broken
+        atmo_high_0.wav
+        ......
+    good
+    heavy_load
+
+ 3. let's run /precess/a_datapreprocess.py, u will get  .npy file in npy folder for later training and .jpg file in image for visualization
+    the strcture of the folder will be like this
+audio
+    broken
+    good
+    heavy_load
+img    
+    broken
+    good
+    heavy_load
+npy
+    broken
+    good
+    heavy_load
+this is an exaple jpg file, x is time frame, y is frequency channel.
+![atmo_high_0](https://github.com/user-attachments/assets/e00e92e4-b4a0-4a96-b053-bd4ffbaaa7d8)
+
+
+
  
